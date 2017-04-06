@@ -1,6 +1,6 @@
 # IS183MidtermFiles
 
-## Midterm Instructions: 
+## Midterm Instructions (PART 2): 
 Last week, your boss mentioned that the company’s current website needs to be updated to current technology standards. The current website was built using pre HTML5 specs and with static table based layouts. Although this serves its purpose in the past, the current website do not properly display images and text on newer smart phones and mobile devices. This is why your boss has allocated $10,000 for a new professional website and because your boss knows that you are taking the IS183 Course this semester, she has put you in charge of designing and developing the new website.
 
 
