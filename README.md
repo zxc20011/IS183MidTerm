@@ -14,10 +14,10 @@ Secondary Color: #F4F1BB
 Accent Color: #E6EBE0
 
 ## Login Form: `(20 pts total)`
-1. Single column layout with a login form with username and password input text field. `(5 pts)`
-2. Submit button. `(5 pts)`
-3. Perform login logic and bind function to onclick event. `(5 pts)`
-4. Redirect to home page on login success. `(5 pts)`
+1. Single column layout with a login form with username and password input text field. `(10 pts)`
+2. Submit button. `(10 pts)`
+3. Perform login logic and bind function to onclick event. `(5 pts extra credit)`
+4. Redirect to home page on login success. `(5 pts extra credit)`
 
 ## Home Page:  `(20 pts total)`
 1. Header (with a logo of the business located within the img folder. The file name is sm_logo). The background color is <Primary Color>  `(2.5 pts)`
